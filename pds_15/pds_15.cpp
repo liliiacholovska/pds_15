@@ -4,7 +4,6 @@
 using namespace std;
 
 const int MAX_N = 10;
-
 int position[MAX_N]; 
 
 bool isSafe(int row, int col, int n) {
